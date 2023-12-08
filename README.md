@@ -1,2 +1,2 @@
-# Hospital-Management-System-C-
+# Hospital-Management-System
 Hospital-Management-System-C-Sharp-Winform-master
